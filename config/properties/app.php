@@ -17,7 +17,6 @@ return [
         'App\Boot',
     ],
     'excludeScan'  => [
-
     ],
     'I18n'         => [
         'sourceLanguage' => '@root/resources/messages/',
